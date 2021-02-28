@@ -14,8 +14,8 @@ To install this repository correctly follow the next steps.
 First of all, in the terminal put the next code:
 
 ```sh
- git clone https://github.com/Rafael-Anguiano/Rafael-Anguiano-CV.git
- cd Rafael-Anguiano-CV/
+ git clone https://github.com/Rafael-Anguiano/MyCV_App.git
+ cd MyCV_App/
 ```
 
 The next step is install the dependencies and node-modules.

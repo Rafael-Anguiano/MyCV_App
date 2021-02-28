@@ -45,7 +45,7 @@ export default class ProjectsSc extends React.Component {
                 role: 'Programmer',
                 program:'Text Editor / Expo',
                 language:'Javascript',
-                link:'https://drive.google.com/drive/folders/1478ozRYdVDaVJ4Bn4fE9b9ggxef8EYfk?usp=sharing',
+                link:'https://github.com/Rafael-Anguiano/MyCV_App',
                 description: 'A mobile application to use as a curriculum and show some of my information and abilities in a diferent way.'
             },
             {
