@@ -36,9 +36,9 @@ Once you have installed Expo, you are ready to start simulating and editing some
 ---
 ## APK and Video of the App
  If you want to use the app like APK, download the file in the link using an Android Device.
->[APK](https://drive.google.com/drive/u/2/folders/1478ozRYdVDaVJ4Bn4fE9b9ggxef8EYfk)
+    [APK](https://drive.google.com/drive/u/2/folders/1478ozRYdVDaVJ4Bn4fE9b9ggxef8EYfk)
  If you want to watch my video Showing the App. Use this link.
->[Video]()
+    [Video]()
 
 ---
 ## Using the App
