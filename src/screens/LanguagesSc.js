@@ -66,12 +66,22 @@ export default class LanguagesSc extends React.Component {
                         </CardItem>
                         <CardItem>
                             <Text>
+                                <Icon name="star" style={{fontSize:22, color:'#B39B14'}}> </Icon>Git
+                            </Text>
+                        </CardItem>
+                        <CardItem>
+                            <Text>
                                 <Icon name="star" style={{fontSize:22, color:'#B39B14'}}> </Icon>Javascript
                             </Text>
                         </CardItem>
                         <CardItem>
                             <Text>
                                 <Icon name="star" style={{fontSize:22, color:'#B39B14'}}> </Icon>ReactJS
+                            </Text>
+                        </CardItem>
+                        <CardItem>
+                            <Text>
+                                <Icon name="star" style={{fontSize:22, color:'#B39B14'}}> </Icon>React Native
                             </Text>
                         </CardItem>
                         <CardItem>
@@ -91,7 +101,7 @@ export default class LanguagesSc extends React.Component {
                         </CardItem>
                         <CardItem>
                             <Text>
-                                <Icon name="star" style={{fontSize:22, color:'#B39B14'}}> </Icon>MySQL
+                                <Icon name="star" style={{fontSize:22, color:'#B39B14'}}> </Icon>SQL
                             </Text>
                         </CardItem>
                         <CardItem style={{flexDirection:'column', alignItems:'flex-start'}}>
