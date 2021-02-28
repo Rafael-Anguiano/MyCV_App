@@ -56,7 +56,7 @@ export default class ProjectsSc extends React.Component {
                 role: "Web Site and it's conection with Database",
                 program:'Text Editor',
                 language:'Python and Django / MySQL',
-                link:'https://drive.google.com/drive/folders/1UTRWmSXOVHcqXi_Ux0vFL9peXepPJnRp?usp=sharing',
+                link:'https://github.com/Rafael-Anguiano/FamilyFriend',
                 description: "Is an application focused to be helpfull for seniors, and assist them and their families using reminders and easier ways to use their phones. I made the website where the people would register before using the application and its connection with a database."
             },
             {
@@ -67,7 +67,7 @@ export default class ProjectsSc extends React.Component {
                 role: 'Programmer',
                 program:'Text Editor / Console',
                 language:'C++',
-                link:'https://drive.google.com/drive/folders/1IaO47htF94l4LLPC9mrNCKdgopMmZihr?usp=sharing',
+                link:'https://github.com/Rafael-Anguiano/Guitar_Inventory',
                 description: 'A console simulator of an inventory where you can add registers and save them on a document, it can read them with the application and you can search info and sort them in a tree from.'
             },
             {
@@ -78,7 +78,7 @@ export default class ProjectsSc extends React.Component {
                 role: '3D Designer',
                 program:'Solid Edge / Arduino',
                 language:'C++',
-                link: 'https://drive.google.com/drive/folders/1lVdZyjLsSMOf-LVv_D57yWo58ql4-kb2?usp=sharing',
+                link: 'https://github.com/Rafael-Anguiano/CJ-6',
                 description: 'A drone designed in Solid Edge and programed in C++ able to follow a line to solve a maze, using ultrasonic and infrared sensors.'
             },
           ];
