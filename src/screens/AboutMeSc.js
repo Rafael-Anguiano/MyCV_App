@@ -154,6 +154,11 @@ export default class AboutMeSc extends React.Component {
                     onPress={() => mailAlert()}>
                     <Icon name="mail" />
                 </Button>
+                <Button 
+                    style={{ backgroundColor: '#000000' }}
+                    onPress={() => WebBrowser.openBrowserAsync('https://github.com/Rafael-Anguiano')}>
+                    <Icon name="logo-github" />
+                </Button>
             </Fab>
         </View>
         )

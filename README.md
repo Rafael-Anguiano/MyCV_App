@@ -34,6 +34,13 @@ Once you have installed Expo, you are ready to start simulating and editing some
  expo start
 ```
 ---
+## APK and Video of the App
+ If you want to use the app like APK, download the file in the link using an Android Device.
+ 
+ If you want to watch my video Showing the App. Use this link.
+ 
+
+---
 ## Using the App
 1. When the app started you would see a Splash Screen who says "Rafael Anguiano" "CV".
 2. After the Splash Screen ended you would see the "About Me" screen with some of my personal and academic information.
@@ -42,6 +49,7 @@ Once you have installed Expo, you are ready to start simulating and editing some
 5. In the Languages Screen you can find the programming languages that I have used in my life.
 
 > During all the app, at the right bottom you would see a blue circle, this are FABs (Floating Action Buttoms). Once you press blue circle it will display three circles.
+> One with the GitHub Icon. This one will redirect you to my GitHub profile.
 > One with a Mail Icon. Press this button will display a screen to write me an Email.
 > One with a Chat Icon. This one will open Facebook Messenger in your phone with my chat there to write me a message. 
 > One with the WhatsApp Icon. This one will open WhatsApp Messenger in your phone with my chat there to write me a message. 
