@@ -50,7 +50,7 @@ Once you have installed Expo, you are ready to start simulating and editing some
 4. In the Projects Screen you can do horizontal swipes to see other projects, at the top right of any project you would see the word "CODE", if you press this button you would be redirected to the GitHub Repository of the project.
 5. In the Languages Screen you can find the programming languages that I have used in my life.
 
-> - During all the app, at the right bottom you would see a blue circle, this are FABs (Floating Action Buttoms). Once you press blue circle it will display three circles.
+> During all the app, at the right bottom you would see a blue circle, this are FABs (Floating Action Buttoms). Once you press blue circle it will display three circles.
 > - One with the GitHub Icon. This one will redirect you to my GitHub profile.
 > - One with a Mail Icon. Press this button will display a screen to write me an Email.
 > - One with a Chat Icon. This one will open Facebook Messenger in your phone with my chat there to write me a message. 
