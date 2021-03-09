@@ -6,7 +6,6 @@ import AboutMeSc from '../screens/AboutMeSc'
 import ProjectsSc from '../screens/ProjectsSc'
 import LanguagesSc from '../screens/LanguagesSc'
 
-
 const Tab = createBottomTabNavigator();
 
 export default class MainTab extends React.Component {
